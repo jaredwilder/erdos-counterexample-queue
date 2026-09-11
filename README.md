@@ -230,10 +230,20 @@ complementary directions: 1093 over-listed by two, 1094 under-listed by ten.
 
 ---
 
+## The companion pool
+
+The same sweep left **986 counterexamples the tool marked UNDECIDABLE**, because their text carries
+no distinctive token at all. Those have now been read rather than matched:
+**[THE-986-UNDECIDABLE.md](THE-986-UNDECIDABLE.md)**.
+
+Headline from that pass: **889 of 986 carry no mathematical object** — there is no token because
+there is nothing to tokenise. But the 2% that do are disproportionately structural, and three
+campaign verdicts turn out to be wrong, including a banked kill resting on the false claim that
+**87 is a sum of at most three powerful numbers**. It is not.
+
 ## What remains
 
-Roughly 387 of the 504 rows are worked here. The rest, plus **986 counterexamples the tool marked
-UNDECIDABLE** because their text carries no distinctive token, need reading rather than matching.
+Roughly 387 of the 504 rows are worked here.
 
 Expect about a third to carry an object. Expect those objects to be right about *firing* and
 unreliable about the *corrected value*. And expect at least one more of the inverse kind, because a
