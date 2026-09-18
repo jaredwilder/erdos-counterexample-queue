@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use a counterexample or correction from this repository, please cite it."
+title: "Erdos counterexample and correction library"
+authors:
+  - family-names: "Wilder"
+    given-names: "Jared"
+type: dataset
+repository-code: "https://github.com/jaredwilder/erdos-counterexample-queue"
+license: Apache-2.0
